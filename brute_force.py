@@ -17,4 +17,4 @@ with ZipFile(name,'r') as file:
     else:
         print('\nUnable to crack')
 file.close()
-    
+f.close()
